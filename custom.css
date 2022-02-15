@@ -6,10 +6,10 @@ Website:        https://draculatheme.com
 GitHub:         https://github.com/dracula
 
 DRACULA COLOR PALETTE
-    Background:  #282a36;
-    CurrentLine: #44475a;
-    Foreground:  #f8f8f2;
-    Comment:     #6272a4;
+    Background:  #282828;
+    CurrentLine: #3c3836;
+    Foreground:  #fbf1c7;
+    Comment:     #928375;
     Cyan:        #8be9fd;
     Green:       #50fa7b;
     LightGreen:  #8aff80;
@@ -21,7 +21,7 @@ DRACULA COLOR PALETTE
 */
 
 :root {
-    --Primary:        #bd93f9;    /*Dracula:Purple*/
+    --Primary:        #fe8019;    /*Dracula:Purple*/
     --Secondary:      #44475a;    /*Dracula:CurrentLine*/
     --Green:          #50fa7b;    /*Dracula:Green*/
     --Red:            #ff5555;    /*Dracula:Red*/
