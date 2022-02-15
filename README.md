@@ -1,4 +1,4 @@
-# Dracula for [Mainsail](https://docs.mainsail.xyz/)
+# Gruvbox for [Mainsail](https://docs.mainsail.xyz/)
 
 > A dark theme for [Mainsail](https://github.com/mainsail-crew/mainsail)
 
@@ -6,7 +6,7 @@
 
 ## Installation 
 ```bash
-git clone https://github.com/steadyjaw/dracula-mainsail-theme.git ~/klipper_config/.theme
+git clone https://github.com/AshamedConsequence/gruvbox-mainsail-theme.git ~/klipper_config/.theme
 ```
 ## Update
 ```bash
